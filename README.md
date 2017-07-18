@@ -5,7 +5,7 @@ Framework de Spring para el procesamiento de datos.
 ## Índice
   1. **[historia](#historia)**
   2. **[descripción](#descripción)**
-  3. **[estado del arte](#estado del arte)**
+  3. **[estado del arte](#estado_del_arte)**
   4. **[modelo conceptual](#modelo conceptual)**
   5. **[comparativa de productos](#comparativa de productos)**
   6. **[casos de uso](#casos de uso)**
