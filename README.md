@@ -15,7 +15,8 @@ Framework de Spring para el procesamiento de datos.
 ## historia
 
 [`Spring Batch`] es un framework ligero enfocado específicamente en la creación de procesos batch. 
-### La Máquina de Turing (1950)
+### La Máquina de Turing (1950) <a href="http://example.com/" target="_blank">Enlace</a>
+
 
 Alan Turing teorizo que una maquina verdaderamente inteligente sería imposible de distinguir por un humano en una conversación de texto si de hecho esta hablando con otro humano o una maquina. Las ideas de Turing ayudaron a empezar la revolución de los chatbots.
 
