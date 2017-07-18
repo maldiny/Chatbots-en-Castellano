@@ -15,16 +15,19 @@ Framework de Spring para el procesamiento de datos.
 ## historia
 
 [`Spring Batch`] es un framework ligero enfocado específicamente en la creación de procesos batch. 
-### La Máquina de Turing (1950) <a href="http://example.com/" target="_blank">Enlace</a>
+### La Máquina de Turing (1950) 
 
+Entre 1950 y 1960, Alan Turing y Joseph Weizenbaum contemplaron la posibilidad de que los ordenadores se comunicasen como humanos mediante experimentos como el test de Turing y que fue el inicio del concepto de los chatbots.
 
-Alan Turing teorizo que una maquina verdaderamente inteligente sería imposible de distinguir por un humano en una conversación de texto si de hecho esta hablando con otro humano o una maquina. Las ideas de Turing ayudaron a empezar la revolución de los chatbots.
+El test de Turing se desarrollo por Alan Turing en 1950 para verificar la abilidad de un ordenador de mostrar un comportamiento inteligente equivalente al realizado por un humano.
 
 <p align="center"><img src="https://raw.githubusercontent.com/maldiny/Chatbots-en-Castellano/bfa29d8c89f1eea74bb6ab3e087b911d831962b8/imagenes/%5BMaldiny%5D_La_Maquina_de_Turing_1950.png"></p>
 
 ### ELIZA La Terapeuta (1966)
 
-El primer chatbot, ELIZA podia simular las respuestas de una psicoterapeuta y podía llevar una conversación de manera convincente con un humano.
+ELIZA fue el primer chatbot construido. Inventado en 1966 por Joseph Weizenbaum en el MIT que con apenas 200 lneas de código permitió imitar el lenguaje de una terapeuta.
+
+El funcionamiento de ELIZA se basaba en la búsqueda de palabras clave en las frases introducidas por el usuario repondiendo con frases previamente entrenadas en su base de conocimiento. Tras utilizar el bot, acababa volviéndose intuitivo y repetitivo, convirtiendo las conversaciones con sus usuarios incoherentes.
 
 <p align="center"><img src="https://raw.githubusercontent.com/maldiny/Chatbots-en-Castellano/bfa29d8c89f1eea74bb6ab3e087b911d831962b8/imagenes/%5BMaldiny%5D_Eliza_La_terapeuta_1966.png"></p>
 
