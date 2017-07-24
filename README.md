@@ -9,7 +9,7 @@ Framework de Spring para el procesamiento de datos.
   4. **[modelo conceptual](#modelo-conceptual)**
   5. **[comparativa de productos](#comparativa-de-productos)**
   6. **[casos de uso](#casos-de-uso)**
-  7. **[principios basicos](#principios-basicos)**
+  7. **[principios basicos de diseño](#principios-basicos-de-diseño)**
   8. **[consejos y recomendaciones](#consejos-y-recomendaciones)**
   9. **[referencias](#referencias)**
 
@@ -128,7 +128,7 @@ En Abril, Facebook lanzo una plataforma que permite a los desarrolladores crear 
 
 **[Ir al índice](#Índice)**
 
-## principios basicos
+## principios basicos de diseño
 
 ### Mensaje de bienvenida y error
 
