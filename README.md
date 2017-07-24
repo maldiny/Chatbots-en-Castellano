@@ -9,7 +9,7 @@ Framework de Spring para el procesamiento de datos.
   4. **[modelo conceptual](#modelo-conceptual)**
   5. **[comparativa de productos](#comparativa-de-productos)**
   6. **[casos de uso](#casos-de-uso)**
-  7. **[principios basicos de diseño](#principios-basicos)**
+  7. **[principios basicos](#principios-basicos)**
   8. **[consejos y recomendaciones](#consejos-y-recomendaciones)**
   9. **[referencias](#referencias)**
 
