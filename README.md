@@ -134,6 +134,10 @@ En Abril, Facebook lanzo una plataforma que permite a los desarrolladores crear 
 
 Configurar un mensaje de bienvenida que defina la funcionalidad del bot y aporte información sobre sus posibilidades. Adicionalmente será necesario controlar los mensajes no reconocidos.
 
+<p align="center"><img src="https://github.com/maldiny/Chatbots-en-Castellano/blob/master/imagenes/%5BMaldiny%5D_Mensaje_de_bienvenida.png"></p>
+
+<p align="center"><img src="https://github.com/maldiny/Chatbots-en-Castellano/blob/master/imagenes/%5BMaldiny%5D_Mensaje_de_error.png"></p>
+
 ### Definir su personalidad
 
 Definir la personalidad del bot ayudará a sus usuarios a establecer vínculos emocionales con el bot.
