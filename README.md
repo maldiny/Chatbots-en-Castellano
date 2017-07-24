@@ -9,8 +9,9 @@ Framework de Spring para el procesamiento de datos.
   4. **[modelo conceptual](#modelo-conceptual)**
   5. **[comparativa de productos](#comparativa-de-productos)**
   6. **[casos de uso](#casos-de-uso)**
-  7. **[conclusiones y recomendaciones](#conclusiones-y-recomendaciones)**
-  8. **[referencias](#referencias)**
+  7. **[principios básicos de diseño](#principios-basicos)**
+  8. **[consejos y recomendaciones](#consejos-y-recomendaciones)**
+  9. **[referencias](#referencias)**
 
 ## historia
 
@@ -127,7 +128,43 @@ En Abril, Facebook lanzo una plataforma que permite a los desarrolladores crear 
 
 **[Ir al índice](#Índice)**
 
-## conclusiones y recomendaciones
+## principios básicos
+
+### Mensaje de bienvenida y error
+
+Configurar un mensaje de bienvenida que defina la funcionalidad del bot y aporte información sobre sus posibilidades. Adicionalmente será necesario controlar los mensajes no reconocidos.
+
+### Definir su personalidad
+
+Definir la personalidad del bot ayudará a sus usuarios a establecer vínculos emocionales con el bot.
+
+### Listar sus funcionalidades y capacidades
+
+Facilitar de una forma clara y concisa el listado de funcionalidades que el bot pone al alcance de los usuarios.
+
+### Flujos de conversacin
+
+Acotar y definir flujos de conversacin que los usuarios podrán seguir durante la interacción con el bot.
+
+**[Ir al índice](#Índice)**
+
+## consejos y recomendaciones
+
+### Errores
+
+Se producirán errores constantemente a lo largo de toda la conversación. Será necesario personalizar los mensajes de error según el usuario y el contexto.
+
+### Visibilidad
+
+Mantener informado al usuario en todo momento de en qué punto de la conversación se encuentra.
+
+### Diversidad de usuarios
+
+Los usuarios experimentados y con conocimientos previos del sistema emplearán atajos en las conversaciones, por ejemplo, informando de los parámetros obligatorios de una acción sin necesidad de solicitarlos.
+
+### Testing
+
+Mantener un control de los distintos flujos de conversación existentes y sistemas que permitan realizar el testeo automático del bot.
 
 **[Ir al índice](#Índice)**
 
