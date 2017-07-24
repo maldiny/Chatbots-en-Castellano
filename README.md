@@ -134,7 +134,7 @@ En Abril, Facebook lanzo una plataforma que permite a los desarrolladores crear 
 
 Configurar un mensaje de bienvenida que defina la funcionalidad del bot y aporte información sobre sus posibilidades. Adicionalmente será necesario controlar los mensajes no reconocidos.
 
-<p align="center"><img src="https://github.com/maldiny/Chatbots-en-Castellano/blob/master/imagenes/%5BMaldiny%5D_Mensaje_de_bienvenida.png"></p>
+<p align="center"><img src="https://github.com/maldiny/Chatbots-en-Castellano/blob/master/imagenes/%5BMaldiny%5D_Mensaje_de_entrada.png"></p>
 
 <p align="center"><img src="https://github.com/maldiny/Chatbots-en-Castellano/blob/master/imagenes/%5BMaldiny%5D_Mensaje_de_error.png"></p>
 
