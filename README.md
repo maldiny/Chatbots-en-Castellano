@@ -4,9 +4,15 @@ Durante el transcurso de 2016 se realizó un estudio sobre el uso de los distint
 
 La <a href="https://es.wikipedia.org/wiki/Comisi%C3%B3n_Nacional_de_los_Mercados_y_la_Competencia">CNMC</a> (Comisión Nacional de los Mercados y la Competencia) difundió un <a href="http://data.cnmc.es/datagraph/files/Informe%20Telecos%20y%20Audiovisual%202016.pdf">estudio</a> en el que aseguraba que los mensajes tradicionales (SMS) y las llamadas telefónicas habían quedado relegados a un segundo plano. En este informe reflejaban que dos de cada diez españoles nunca realizan llamadas desde teléfonos fijos y cuatro de cada diez llaman menos de una vez por semana.
 
-En contraposición, las aplicaciones de mensajera instantánea son en la actualidad el medio de comunicación más empleado. De este modo aplicaciones como Telegram, Messenger o Whatsapp lo utilizan el 60% de los españoles.
+En contraposición, las aplicaciones de mensajera instantánea son en la actualidad el medio de comunicación más empleado. De este modo aplicaciones como Telegram, Messenger o WhatsApp lo utilizan el 60% de los españoles.
 
 <p align="center"><img src="imagenes//[Maldiny]_Estadisticas_CNMV.jpg"></p>
+
+En cuanto a la mensajería instantánea preferida por los usuarios depende de el país en el que se realice el estudio, se verán unas preferencias de uso de aplicaciones u otra. La mayoría de los usuarios de paises del continente asiático emplean WeChat, LINE, Messenger o WhatsApp, en este orden de preferencia. Sin embargo, si vemos los resultados globales de preferencia por canal nos encontramos ocn el siguiente escenario:
+
+<p align="center"><img src="imagenes//[Maldiny]_Estadisticas_canales.png"></p>
+
+En los siguientes puntos iremos viendo una breve descripción sobre la anatomía de los Chatbots, su construcción, diseño, implementación y guías de diseño.
 
 ## Índice
   1. **[historia](#historia)**
