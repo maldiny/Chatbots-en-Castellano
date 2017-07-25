@@ -1,6 +1,12 @@
 # Chatbots
 
-Framework de Spring para el procesamiento de datos.
+Durante el transcurso de 2016 se realizó un estudio sobre el uso de los distintos medios de comunicación en el que se reflejaba que la mensajería instantánea ganaba la batalla a otros servicios de comunicaciones tradicionales hasta la fecha. 
+
+La <a href="https://es.wikipedia.org/wiki/Comisi%C3%B3n_Nacional_de_los_Mercados_y_la_Competencia">CNMC</a> (Comisión Nacional de los Mercados y la Competencia) difundió un <a href="http://data.cnmc.es/datagraph/files/Informe%20Telecos%20y%20Audiovisual%202016.pdf">estudio</a> en el que aseguraba que los mensajes tradicionales (SMS) y las llamadas telefónicas habían quedado relegados a un segundo plano. En este informe reflejaban que dos de cada diez españoles nunca realizan llamadas desde teléfonos fijos y cuatro de cada diez llaman menos de una vez por semana.
+
+En contraposición, las aplicaciones de mensajera instantánea son en la actualidad el medio de comunicación más empleado. De este modo aplicaciones como Telegram, Messenger o Whatsapp lo utilizan el 60% de los españoles.
+
+<p align="center"><img src="imagenes//[Maldiny]_Estadisticas_CNMV.jpg"></p>
 
 ## Índice
   1. **[historia](#historia)**
@@ -15,20 +21,19 @@ Framework de Spring para el procesamiento de datos.
 
 ## historia
 
-[`Spring Batch`] es un framework ligero enfocado específicamente en la creación de procesos batch. 
 ### La Máquina de Turing (1950) 
 
-Entre 1950 y 1960, Alan Turing y Joseph Weizenbaum contemplaron la posibilidad de que los ordenadores se comunicasen como humanos mediante experimentos como el test de Turing y que fue el inicio del concepto de los chatbots.
+Entre 1950 y 1960, Alan Turing y Joseph Weizenbaum contemplaron la posibilidad de que los ordenadores se comunicasen como humanos mediante experimentos como el test de Turing y que fue el inicio del concepto de los Chatbots.
 
-El test de Turing se desarrollo por Alan Turing en 1950 para verificar la abilidad de un ordenador de mostrar un comportamiento inteligente equivalente al realizado por un humano.
+El test de Turing se desarrollo por Alan Turing en 1950 para verificar la habilidad de un ordenador de mostrar un comportamiento inteligente equivalente al realizado por un humano.
 
 <p align="center"><img src="https://raw.githubusercontent.com/maldiny/Chatbots-en-Castellano/bfa29d8c89f1eea74bb6ab3e087b911d831962b8/imagenes/%5BMaldiny%5D_La_Maquina_de_Turing_1950.png"></p>
 
 ### ELIZA La Terapeuta (1966)
 
-ELIZA fue el primer chatbot construido. Inventado en 1966 por Joseph Weizenbaum en el MIT que con apenas 200 lneas de código permitió imitar el lenguaje de una terapeuta.
+ELIZA fue el primer chatbot construido. Inventado en 1966 por Joseph Weizenbaum en el MIT que con apenas 200 líneas de código permitió imitar el lenguaje de una terapeuta.
 
-El funcionamiento de ELIZA se basaba en la búsqueda de palabras clave en las frases introducidas por el usuario repondiendo con frases previamente entrenadas en su base de conocimiento. Tras utilizar el bot, acababa volviéndose intuitivo y repetitivo, convirtiendo las conversaciones con sus usuarios incoherentes.
+El funcionamiento de ELIZA se basaba en la búsqueda de palabras clave en las frases introducidas por el usuario respondiendo con frases previamente entrenadas en su base de conocimiento. Tras utilizar el bot, acababa volviéndose intuitivo y repetitivo, convirtiendo las conversaciones con sus usuarios incoherentes.
 
 <p align="center"><img src="https://raw.githubusercontent.com/maldiny/Chatbots-en-Castellano/bfa29d8c89f1eea74bb6ab3e087b911d831962b8/imagenes/%5BMaldiny%5D_Eliza_La_terapeuta_1966.png"></p>
 
@@ -50,7 +55,7 @@ Un programa de síntesis del habla creado por computadoras basadas en MS DOS. Fu
 
 ### A.L.I.C.E (2000)
 
-“Artificial Linguistic Internet Computer Entity” era un bot con procesamiento natural del lenguaje (PNL). Podía aplicar patrones heurísticos uniendo reglas de lo que los humanos le decían, es decir, tenia una conversación.
+“Artificial Linguistic Internet Computer Entity” era un bot con procesamiento natural del lenguaje (PNL). Podía aplicar patrones heurísticos uniendo reglas de lo que los humanos le decían, es decir, tenía una conversación.
 
 <p align="center"><img src="https://raw.githubusercontent.com/maldiny/Chatbots-en-Castellano/bfa29d8c89f1eea74bb6ab3e087b911d831962b8/imagenes/%5BMaldiny%5D_ALICE_2000.png"></p>
 
@@ -86,13 +91,13 @@ Un servicio de voz habitado en el dispositivo de Amazon, Echo. Alexa es capaz de
 
 ### CORTANA - Microsoft (2015)
 
-Un asistente inteligente personal desarrollado por Microsoft, Cortana te envía recordatorios, reconoce comandos natural de voz, y responde preguntas usando el motor de búsquedas de Bing.
+Un asistente inteligente personal desarrollado por Microsoft, Cortana te envía recordatorios, reconoce comandos naturales de voz, y responde preguntas usando el motor de búsquedas de Bing.
 
 <p align="center"><img src="https://raw.githubusercontent.com/maldiny/Chatbots-en-Castellano/bfa29d8c89f1eea74bb6ab3e087b911d831962b8/imagenes/%5BMaldiny%5D_Cortana_Microsoft_2015.png"></p>
 
 ### TAY.ai - Microsoft (2016)
 
-Diseñado para simular el habla y los hábitos de una joven americana. Tay rápidamente desarrollo paranoia viciosa y tubo que ser apagado a tan solo 6 horas dado que empezo a dar comentarios ofensivos a la gente.
+Diseñado para simular el habla y los hábitos de una joven americana. Tay rápidamente desarrollo paranoia viciosa y tubo que ser apagado a tan solo 6 horas dado que empezó a dar comentarios ofensivos a la gente.
 
 <p align="center"><img src="https://raw.githubusercontent.com/maldiny/Chatbots-en-Castellano/bfa29d8c89f1eea74bb6ab3e087b911d831962b8/imagenes/%5BMaldiny%5D_Tay.ai_Microsoft_2016.png"></p>
 
@@ -150,9 +155,9 @@ Definir la personalidad del bot ayudará a sus usuarios a establecer vínculos e
 
 Facilitar de una forma clara y concisa el listado de funcionalidades que el bot pone al alcance de los usuarios.
 
-### Flujos de conversacion
+### Flujos de conversación
 
-Acotar y definir flujos de conversacin que los usuarios podrán seguir durante la interacción con el bot.
+Acotar y definir flujos de conversación que los usuarios podrán seguir durante la interacción con el bot.
 
 **[Ir al índice](#Índice)**
 
@@ -190,3 +195,4 @@ Mantener un control de los distintos flujos de conversación existentes y sistem
 * [War of Bot Platforms](https://chatbotbook.com/war-of-bot-platforms-22e02cfa0a99?gi=cfba6c7b93c1#.q8s3487ay)
 
 **[Ir al índice](#Índice)**
+
