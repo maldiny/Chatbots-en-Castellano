@@ -132,9 +132,11 @@ En Abril, Facebook lanzo una plataforma que permite a los desarrolladores crear 
 
 ### Mensaje de bienvenida y error
 
-Configurar un mensaje de bienvenida que defina la funcionalidad del bot y aporte información sobre sus posibilidades. Adicionalmente será necesario controlar los mensajes no reconocidos.
+Configurar un mensaje de bienvenida que defina la funcionalidad del bot y aporte información sobre sus posibilidades. 
 
 <p align="center"><img src="https://github.com/maldiny/Chatbots-en-Castellano/blob/master/imagenes/%5BMaldiny%5D_Mensaje_de_entrada.png"></p>
+
+Adicionalmente será necesario controlar los mensajes no reconocidos.
 
 <p align="center"><img src="https://github.com/maldiny/Chatbots-en-Castellano/blob/master/imagenes/%5BMaldiny%5D_Mensaje_de_error.png"></p>
 
@@ -142,11 +144,13 @@ Configurar un mensaje de bienvenida que defina la funcionalidad del bot y aporte
 
 Definir la personalidad del bot ayudará a sus usuarios a establecer vínculos emocionales con el bot.
 
+<p align="center"><img src="https://github.com/maldiny/Chatbots-en-Castellano/blob/master/imagenes/%5BMaldiny%5D_Poncho_personalidad.png"></p>
+
 ### Listar sus funcionalidades y capacidades
 
 Facilitar de una forma clara y concisa el listado de funcionalidades que el bot pone al alcance de los usuarios.
 
-### Flujos de conversacin
+### Flujos de conversacion
 
 Acotar y definir flujos de conversacin que los usuarios podrán seguir durante la interacción con el bot.
 
